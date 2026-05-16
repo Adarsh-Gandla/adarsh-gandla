@@ -45,8 +45,8 @@ I am a Computer Science and Engineering graduate specializing in architecting da
 
 ### 💼 Experience
 * **Data Science Intern** | *EduNoVerse Tech Solutions* (Aug 2025 - Oct 2025)
-* **Data Science Intern** | *Pantech e Learning Pvt. Ltd.* (Dec 2023 - Jan 2024)
 * **Java Programming Intern** | *VaultofCodes.in* (Jan 2024 - Feb 2024)
+* **Data Science Intern** | *Pantech e Learning Pvt. Ltd.* (Dec 2023 - Jan 2024)
 
 ### 🏆 Honors & Extracurriculars
 * **1st Place Certificate of Merit:** B.Tech CSE, 1st Year, 2nd Semester.
