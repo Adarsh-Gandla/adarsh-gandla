@@ -4,6 +4,7 @@
 
 I am a Computer Science and Engineering graduate specializing in architecting data-driven software solutions, translating complex datasets into actionable insights, and building end-to-end AI applications. My core focus lies at the intersection of Computational Intelligence, Logistics Optimization, and scalable web deployment.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-1e3c72?style=flat&logo=googlechrome)](https://adarsh-gandla.github.io/adarsh-gandla)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/adarsh-gandla-613ba6270)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=flat&logo=researchgate)](http://researchgate.net/profile/adarsh-gandla)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=flat&logo=gmail)](mailto:adarshgandla.tab@gmail.com)
