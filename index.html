@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Adarsh G | Portfolio</title>
+    <style>
+        :root {
+            --bg-color: #f4f7f6;
+            --text-color: #333;
+            --accent-color: #0056b3;
+            --card-bg: #fff;
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
+        body { background-color: var(--bg-color); color: var(--text-color); line-height: 1.6; }
+        
+        /* Navigation */
+        nav { background: #1a1a1a; color: white; padding: 1rem; position: sticky; top: 0; z-index: 1000; display: flex; justify-content: center; gap: 20px; }
+        nav a { color: white; text-decoration: none; font-weight: bold; transition: color 0.3s; }
+        nav a:hover { color: #4da3ff; }
+
+        /* Header / Hero Section */
+        header { text-align: center; padding: 100px 20px; background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%); color: white; }
+        header h1 { font-size: 3rem; margin-bottom: 10px; }
+        header h2 { font-size: 1.5rem; font-weight: 300; margin-bottom: 20px; color: #d1e8ff; }
+        .contact-links a { display: inline-block; margin: 0 10px; color: white; text-decoration: none; border: 1px solid white; padding: 8px 15px; border-radius: 20px; transition: 0.3s; font-size: 0.9rem; }
+        .contact-links a:hover { background: white; color: #1e3c72; }
+
+        /* Main Container */
+        .container { max-width: 1000px; margin: 0 auto; padding: 40px 20px; }
+        section { margin-bottom: 60px; opacity: 0; transform: translateY(20px); transition: all 0.6s ease-out; }
+        section.visible { opacity: 1; transform: translateY(0); }
+        h3 { font-size: 2rem; margin-bottom: 20px; border-bottom: 2px solid var(--accent-color); display: inline-block; padding-bottom: 5px; }
+
+        /* Skills Tags */
+        .skills-group { margin-bottom: 20px; }
+        .skills-group h4 { margin-bottom: 10px; color: var(--accent-color); }
+        .tag { display: inline-block; background: #e2e8f0; color: #333; padding: 5px 12px; border-radius: 15px; margin: 0 5px 10px 0; font-size: 0.9rem; font-weight: 500; }
+
+        /* Cards for Projects & Experience */
+        .card { background: var(--card-bg); padding: 25px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); margin-bottom: 20px; transition: transform 0.3s; border-left: 4px solid var(--accent-color); }
+        .card:hover { transform: translateY(-5px); box-shadow: 0 10px 15px rgba(0,0,0,0.1); }
+        .card h4 { font-size: 1.3rem; margin-bottom: 5px; }
+        .card .date { color: #666; font-size: 0.9rem; margin-bottom: 15px; font-style: italic; }
+        .card ul { margin-left: 20px; margin-top: 10px; }
+        .card li { margin-bottom: 8px; }
+        .btn { display: inline-block; background: var(--accent-color); color: white; padding: 8px 15px; text-decoration: none; border-radius: 5px; margin-top: 15px; font-size: 0.9rem; }
+        .btn:hover { background: #003d82; }
+
+        /* Footer */
+        footer { text-align: center; padding: 30px; background: #1a1a1a; color: white; margin-top: 40px; }
+    </style>
+</head>
+<body>
+
+    <nav>
+        <a href="#about">About</a>
+        <a href="#skills">Skills</a>
+        <a href="#projects">Projects</a>
+        <a href="#experience">Experience</a>
+        <a href="#education">Education</a>
+    </nav>
+
+    <header style="padding: 60px 20px; /* Reduced padding slightly to accommodate photo */">
+        <img src="profile.jpeg" alt="Adarsh G" style="
+            width: 150px;
+            height: 150px;
+            border-radius: 50%; /* Makes it circular */
+            object-fit: cover; /* Ensures the image is not stretched */
+            border: 4px solid rgba(255, 255, 255, 0.8); /* Semi-transparent border for pop */
+            box-shadow: 0 4px 10px rgba(0,0,0,0.2); /* Soft shadow */
+            margin-bottom: 20px;
+            margin-top: 20px;
+        ">
+        
+        <h1>Adarsh G</h1>
+        <h2>Software Engineer | Machine Learning & Data Science | Computational Intelligence</h2>
+        <div class="contact-links">
+            <a href="mailto:adarshgandla.tab@gmail.com">Email</a>
+            <a href="https://linkedin.com/in/adarshgandla" target="_blank">LinkedIn</a>
+            <a href="https://github.com/adarsh-gandla" target="_blank">GitHub</a>
+            <a href="https://researchgate.net/profile/adarsh-gandla" target="_blank">ResearchGate</a>
+        </div>
+    </header>
+
+    <div class="container">
+        <section id="about" class="fade-in">
+            <h3>Professional Summary</h3>
+            <p>Motivated Computer Science graduate specializing in Artificial Intelligence, Machine Learning, and Computational Intelligence. Hands-on experience architecting full-stack machine learning models, data pipelines, and scalable optimization solutions. Proficient in Python, TensorFlow, Scikit-learn, and Google OR-Tools, with a proven track record of deploying live AI applications and publishing technical research. Seeking an entry-level role in software development, data science, or AI engineering to deliver robust, eco-efficient, and data-driven solutions.</p>
+        </section>
+
+        <section id="skills" class="fade-in">
+            <h3>Technical Skills</h3>
+            <div class="card">
+                <div class="skills-group">
+                    <h4>CI-Logistics (Domain Expertise)</h4>
+                    <span class="tag">Computational Intelligence</span> <span class="tag">Logistics Optimization</span> <span class="tag">Route Optimization</span> <span class="tag">Demand Forecasting</span> <span class="tag">Supply Chain Analytics</span>
+                </div>
+                <div class="skills-group">
+                    <h4>Core AI & Machine Learning</h4>
+                    <span class="tag">Artificial Intelligence</span> <span class="tag">Machine Learning</span> <span class="tag">Deep Learning</span> <span class="tag">Mathematical Optimization</span>
+                </div>
+                <div class="skills-group">
+                    <h4>Algorithms & Models</h4>
+                    <span class="tag">LSTM</span> <span class="tag">Random Forest</span> <span class="tag">TSP</span> <span class="tag">VRP</span> <span class="tag">Demand Clustering</span>
+                </div>
+                <div class="skills-group">
+                    <h4>Analytics & Data Science</h4>
+                    <span class="tag">Data Science</span> <span class="tag">Predictive Analytics</span> <span class="tag">Time Series Forecasting</span> <span class="tag">Data Preprocessing</span>
+                </div>
+                <div class="skills-group">
+                    <h4>Libraries, Frameworks & Languages</h4>
+                    <span class="tag">Python</span> <span class="tag">TensorFlow</span> <span class="tag">Google OR-Tools</span> <span class="tag">Scikit-Learn</span> <span class="tag">Pandas</span> <span class="tag">Java</span> <span class="tag">SQL</span> <span class="tag">HTML/CSS/JS</span>
+                </div>
+            </div>
+        </section>
+
+        <section id="projects" class="fade-in">
+            <h3>Projects & Publications</h3>
+            
+            <div class="card">
+                <h4>Smart Logistics: AI Route & Demand Optimization Platform</h4>
+                <div class="date">Academic Project & Live Deployment | Nov 2025 – Apr 2026</div>
+                <ul>
+                    <li><strong>Publication:</strong> <em>Deep Learning-Based Route Optimization and Demand Forecasting for Smart Logistics</em> published in the International Journal of Emerging Research in Science, Engineering, and Management (IJERSEM).</li>
+                    <li>Architected a cloud-native, software-only logistics optimization system to solve complex routing and demand prediction challenges for delivery networks.</li>
+                    <li>Implemented a route optimization engine in Python using Google OR-Tools to model and solve TSP/VRP style routing scenarios for cost, distance minimization, and eco-efficiency.</li>
+                    <li>Built and trained an LSTM-based demand forecasting model in TensorFlow to predict product demand across locations and time periods.</li>
+                </ul>
+                <a href="https://smart-logistics-v4.vercel.app" target="_blank" class="btn">View Live App</a>
+            </div>
+
+            <div class="card">
+                <h4>Machine Learning for Agriculture</h4>
+                <div class="date">Academic Project | 2024</div>
+                <ul>
+                    <li>Built a crop yield prediction model in Python using Random Forest Regression on historical agricultural and environmental data.</li>
+                    <li>Performed data cleaning, feature selection, and model evaluation to estimate yield based on soil, climate, and crop features, improving decision support for farmers.</li>
+                </ul>
+            </div>
+
+            <div class="card">
+                <h4>ML-Based Early Skin Cancer Detection</h4>
+                <div class="date">Faculty Research Support | 2024</div>
+                <ul>
+                    <li>Provided data processing and programming assistance for a faculty-led research paper on machine learning based early skin cancer detection.</li>
+                    <li>Prepared datasets, implemented preprocessing pipelines, and supported experimentation of classification models for lesion image analysis.</li>
+                </ul>
+            </div>
+        </section>
+
+        <section id="experience" class="fade-in">
+            <h3>Internships & Experience</h3>
+
+            <div class="card">
+                <h4>Data Science Intern</h4>
+                <div class="date">EduNoVerse Tech Solutions, Remote | Aug 2025 – Oct 2025</div>
+                <ul>
+                    <li>Completed a 120-hour structured internship gaining comprehensive, hands-on exposure to advanced data science methodologies, predictive analytics, and real-world machine learning applications.</li>
+                </ul>
+            </div>
+
+            <div class="card">
+                <h4>Java Programming Intern</h4>
+                <div class="date">VaultofCodes.in, Remote | Jan 2024 – Feb 2024</div>
+                <ul>
+                    <li>Developed and debugged Java application modules using object-oriented programming concepts such as classes, inheritance, and interfaces.</li>
+                    <li>Practiced real-world coding standards, version control, and code reviews to improve code quality and reliability.</li>
+                </ul>
+            </div>
+
+            <div class="card">
+                <h4>Data Science Intern</h4>
+                <div class="date">Pantech e Learning Pvt. Ltd., Remote | Dec 2023 – Jan 2024</div>
+                <ul>
+                    <li>Completed a structured data science internship covering the end-to-end data science lifecycle from data collection to model evaluation.</li>
+                    <li>Used Python, Pandas, NumPy, and Scikit-learn to build a proof-of-concept classification model, including data preprocessing, feature engineering, and metrics-based evaluation.</li>
+                </ul>
+            </div>
+        </section>
+
+        <section id="education" class="fade-in">
+            <h3>Education & Certifications</h3>
+            <div class="card">
+                <h4>B.Tech in Computer Science and Engineering</h4>
+                <div class="date">Siddartha Institute of Science and Technology | 2022 – May 2026</div>
+                <p><strong>CGPA:</strong> 9.33 / 10.0</p>
+                <p><strong>Honors:</strong> 1st Place Certificate of Merit (1st Year, 2nd Semester Examinations).</p>
+            </div>
+            
+            <div class="card">
+                <h4>Certifications & Extracurriculars</h4>
+                <ul>
+                    <li><strong>Industry Integrated Data Science Workshop:</strong> Exafluence Inc & Sri Venkateswara University (Oct 2025).</li>
+                    <li><strong>NPTEL Elite Certification:</strong> The Joy of Computing Using Python & Problem Solving Through Programming in C.</li>
+                    <li><strong>Hackathon Participant:</strong> 24-Hour Siddharth #Hackfest2K25, Microsoft Learn Student Chapter.</li>
+                    <li><strong>Leadership & Coordination:</strong> Coordinated "Artistic Graphs" for Star Techies 2K25 and Spot Events for Siddharth Quest 2K24.</li>
+                </ul>
+            </div>
+        </section>
+    </div>
+
+    <footer>
+        <p>&copy; 2026 Adarsh G. All Rights Reserved.</p>
+    </footer>
+
+    <script>
+        // Smooth scrolling for navigation links
+        document.querySelectorAll('nav a').forEach(anchor => {
+            anchor.addEventListener('click', function(e) {
+                e.preventDefault();
+                document.querySelector(this.getAttribute('href')).scrollIntoView({
+                    behavior: 'smooth'
+                });
+            });
+        });
+
+        // Intersection Observer for fade-in effect on scroll
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.classList.add('visible');
+                }
+            });
+        }, { threshold: 0.1 });
+
+        document.querySelectorAll('.fade-in').forEach((section) => {
+            observer.observe(section);
+        });
+    </script>
+</body>
+</html>
