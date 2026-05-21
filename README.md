@@ -22,25 +22,25 @@ I am a Computer Science and Engineering graduate specializing in architecting da
 ### 🛠️ Technical Stack
 
 **CI-Logistics (Domain Expertise)**
-`Computational Intelligence` | `Logistics Optimization` | `Route Optimization` | `Demand Forecasting` | `Supply Chain Analytics`
+[`Computational Intelligence`](https://en.wikipedia.org/wiki/Computational_intelligence) | [`Logistics Optimization`](https://en.wikipedia.org/wiki/Logistics) | [`Route Optimization`](https://en.wikipedia.org/wiki/Routing) | [`Demand Forecasting`](https://en.wikipedia.org/wiki/Demand_forecasting) | [`Supply Chain Analytics`](https://en.wikipedia.org/wiki/Supply_chain_analytics)
 
 **AIML (Core AI & Machine Learning)**
-`Artificial Intelligence` | `Machine Learning` | `Deep Learning` | `Mathematical Optimization`
+[`Artificial Intelligence`](https://en.wikipedia.org/wiki/Artificial_intelligence) | [`Machine Learning`](https://en.wikipedia.org/wiki/Machine_learning) | [`Deep Learning`](https://en.wikipedia.org/wiki/Deep_learning) | [`Mathematical Optimization`](https://en.wikipedia.org/wiki/Mathematical_optimization)
 
 **Algorithms & Models**
-`LSTM` | `Random Forest` | `Traveling Salesman Problem (TSP)` | `Vehicle Routing Problem (VRP)` | `Demand Clustering`
+[`LSTM`](https://en.wikipedia.org/wiki/Long_short-term_memory) | [`Random Forest`](https://en.wikipedia.org/wiki/Random_forest) | [`Traveling Salesman Problem (TSP)`](https://en.wikipedia.org/wiki/Travelling_salesman_problem) | [`Vehicle Routing Problem (VRP)`](https://en.wikipedia.org/wiki/Vehicle_routing_problem) | [`Demand Clustering`](https://en.wikipedia.org/wiki/Cluster_analysis)
 
 **Analytics & Data Science**
-`Data Science` | `Data Analytics` | `Predictive Analytics` | `Time Series Forecasting` | `Data Preprocessing`
+[`Data Science`](https://en.wikipedia.org/wiki/Data_science) | [`Data Analytics`](https://en.wikipedia.org/wiki/Data_analysis) | [`Predictive Analytics`](https://en.wikipedia.org/wiki/Predictive_analytics) | [`Time Series Forecasting`](https://en.wikipedia.org/wiki/Time_series) | [`Data Preprocessing`](https://en.wikipedia.org/wiki/Data_preparation)
 
 **Software Engineering & Architecture**
-`OOAD` | `UML` | `Algorithm Design`
+[`OOAD`](https://en.wikipedia.org/wiki/Object-oriented_analysis_and_design) | [`UML`](https://en.wikipedia.org/wiki/Unified_Modeling_Language) | [`Algorithm Design`](https://en.wikipedia.org/wiki/Algorithm_design)
 
 **Libraries & Frameworks**
-`TensorFlow` | `Google OR-Tools` | `Scikit-Learn` | `Pandas` | `NumPy` | `Matplotlib`
+[`TensorFlow`](https://www.tensorflow.org/) | [`Google OR-Tools`](https://developers.google.com/optimization) | [`Scikit-Learn`](https://scikit-learn.org/) | [`Pandas`](https://pandas.pydata.org/) | [`NumPy`](https://numpy.org/) | [`Matplotlib`](https://matplotlib.org/)
 
 **Front-End & Deployment**
-`Web Application Development` | `HTML` | `CSS` | `JavaScript` | `Vercel` | `Linux`
+[`Web Application Development`](https://en.wikipedia.org/wiki/Web_application_development) | [`HTML`](https://developer.mozilla.org/en-US/docs/Web/HTML) | [`CSS`](https://developer.mozilla.org/en-US/docs/Web/CSS) | [`JavaScript`](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [`Vercel`](https://vercel.com/) | [`Linux`](https://en.wikipedia.org/wiki/Linux)
 
 ---
 
