@@ -21,26 +21,53 @@ I am a Computer Science and Engineering graduate specializing in architecting da
 
 ### 🛠️ Technical Stack
 
-**CI-Logistics (Domain Expertise)**
-`Computational Intelligence` | `Logistics Optimization` | `Route Optimization` | `Demand Forecasting` | `Supply Chain Analytics`
+**CI-Logistics (Domain Expertise)**<br>
+<a href="https://en.wikipedia.org/wiki/Computational_intelligence"><kbd><b>Computational Intelligence</b></kbd></a> 
+<a href="https://en.wikipedia.org/wiki/Logistics"><kbd><b>Logistics Optimization</b></kbd></a> 
+<a href="https://en.wikipedia.org/wiki/Routing"><kbd><b>Route Optimization</b></kbd></a> 
+<a href="https://en.wikipedia.org/wiki/Demand_forecasting"><kbd><b>Demand Forecasting</b></kbd></a> 
+<a href="https://en.wikipedia.org/wiki/Supply_chain_analytics"><kbd><b>Supply Chain Analytics</b></kbd></a>
 
-**AIML (Core AI & Machine Learning)**
-`Artificial Intelligence` | `Machine Learning` | `Deep Learning` | `Mathematical Optimization`
+**AIML (Core AI & Machine Learning)**<br>
+<a href="https://en.wikipedia.org/wiki/Artificial_intelligence"><kbd><b>Artificial Intelligence</b></kbd></a> 
+<a href="https://en.wikipedia.org/wiki/Machine_learning"><kbd><b>Machine Learning</b></kbd></a> 
+<a href="https://en.wikipedia.org/wiki/Deep_learning"><kbd><b>Deep Learning</b></kbd></a> 
+<a href="https://en.wikipedia.org/wiki/Mathematical_optimization"><kbd><b>Mathematical Optimization</b></kbd></a>
 
-**Algorithms & Models**
-`LSTM` | `Random Forest` | `Traveling Salesman Problem (TSP)` | `Vehicle Routing Problem (VRP)` | `Demand Clustering`
+**Algorithms & Models**<br>
+<a href="https://en.wikipedia.org/wiki/Long_short-term_memory"><kbd><b>LSTM</b></kbd></a> 
+<a href="https://en.wikipedia.org/wiki/Random_forest"><kbd><b>Random Forest</b></kbd></a> 
+<a href="https://en.wikipedia.org/wiki/Travelling_salesman_problem"><kbd><b>TSP</b></kbd></a> 
+<a href="https://en.wikipedia.org/wiki/Vehicle_routing_problem"><kbd><b>VRP</b></kbd></a> 
+<a href="https://en.wikipedia.org/wiki/Cluster_analysis"><kbd><b>Demand Clustering</b></kbd></a>
 
-**Analytics & Data Science**
-`Data Science` | `Data Analytics` | `Predictive Analytics` | `Time Series Forecasting` | `Data Preprocessing`
+**Analytics & Data Science**<br>
+<a href="https://en.wikipedia.org/wiki/Data_science"><kbd><b>Data Science</b></kbd></a> 
+<a href="https://en.wikipedia.org/wiki/Data_analysis"><kbd><b>Data Analytics</b></kbd></a> 
+<a href="https://en.wikipedia.org/wiki/Predictive_analytics"><kbd><b>Predictive Analytics</b></kbd></a> 
+<a href="https://en.wikipedia.org/wiki/Time_series"><kbd><b>Time Series Forecasting</b></kbd></a> 
+<a href="https://en.wikipedia.org/wiki/Data_preparation"><kbd><b>Data Preprocessing</b></kbd></a>
 
-**Software Engineering & Architecture**
-`OOAD` | `UML` | `Algorithm Design`
+**Software Engineering & Architecture**<br>
+<a href="https://en.wikipedia.org/wiki/Object-oriented_analysis_and_design"><kbd><b>OOAD</b></kbd></a> 
+<a href="https://en.wikipedia.org/wiki/Unified_Modeling_Language"><kbd><b>UML</b></kbd></a> 
+<a href="https://en.wikipedia.org/wiki/Algorithm_design"><kbd><b>Algorithm Design</b></kbd></a>
 
-**Libraries & Frameworks**
-`TensorFlow` | `Google OR-Tools` | `Scikit-Learn` | `Pandas` | `NumPy` | `Matplotlib`
+**Libraries & Frameworks**<br>
+<a href="https://www.tensorflow.org/"><kbd><b>TensorFlow</b></kbd></a> 
+<a href="https://developers.google.com/optimization"><kbd><b>Google OR-Tools</b></kbd></a> 
+<a href="https://scikit-learn.org/"><kbd><b>Scikit-Learn</b></kbd></a> 
+<a href="https://pandas.pydata.org/"><kbd><b>Pandas</b></kbd></a> 
+<a href="https://numpy.org/"><kbd><b>NumPy</b></kbd></a> 
+<a href="https://matplotlib.org/"><kbd><b>Matplotlib</b></kbd></a>
 
-**Front-End & Deployment**
-`Web Application Development` | `HTML` | `CSS` | `JavaScript` | `Vercel` | `Linux`
+**Front-End & Deployment**<br>
+<a href="https://en.wikipedia.org/wiki/Web_application_development"><kbd><b>Web App Dev</b></kbd></a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><kbd><b>HTML</b></kbd></a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><kbd><b>CSS</b></kbd></a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><kbd><b>JavaScript</b></kbd></a> 
+<a href="https://vercel.com/"><kbd><b>Vercel</b></kbd></a> 
+<a href="https://en.wikipedia.org/wiki/Linux"><kbd><b>Linux</b></kbd></a>
 
 ---
 
