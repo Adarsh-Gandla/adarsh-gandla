@@ -22,25 +22,25 @@ I am a Computer Science and Engineering graduate specializing in architecting da
 ### 🛠️ Technical Stack
 
 **CI-Logistics (Domain Expertise)**
-[![Computational Intelligence](https://img.shields.io/badge/Computational_Intelligence-24292e?style=flat)](https://en.wikipedia.org/wiki/Computational_intelligence) [![Logistics Optimization](https://img.shields.io/badge/Logistics_Optimization-24292e?style=flat)](https://en.wikipedia.org/wiki/Logistics) [![Route Optimization](https://img.shields.io/badge/Route_Optimization-24292e?style=flat)](https://en.wikipedia.org/wiki/Routing) [![Demand Forecasting](https://img.shields.io/badge/Demand_Forecasting-24292e?style=flat)](https://en.wikipedia.org/wiki/Demand_forecasting) [![Supply Chain Analytics](https://img.shields.io/badge/Supply_Chain_Analytics-24292e?style=flat)](https://en.wikipedia.org/wiki/Supply_chain_analytics)
+`Computational Intelligence` | `Logistics Optimization` | `Route Optimization` | `Demand Forecasting` | `Supply Chain Analytics`
 
 **AIML (Core AI & Machine Learning)**
-[![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-24292e?style=flat)](https://en.wikipedia.org/wiki/Artificial_intelligence) [![Machine Learning](https://img.shields.io/badge/Machine_Learning-24292e?style=flat)](https://en.wikipedia.org/wiki/Machine_learning) [![Deep Learning](https://img.shields.io/badge/Deep_Learning-24292e?style=flat)](https://en.wikipedia.org/wiki/Deep_learning) [![Mathematical Optimization](https://img.shields.io/badge/Mathematical_Optimization-24292e?style=flat)](https://en.wikipedia.org/wiki/Mathematical_optimization)
+`Artificial Intelligence` | `Machine Learning` | `Deep Learning` | `Mathematical Optimization`
 
 **Algorithms & Models**
-[![LSTM](https://img.shields.io/badge/LSTM-24292e?style=flat)](https://en.wikipedia.org/wiki/Long_short-term_memory) [![Random Forest](https://img.shields.io/badge/Random_Forest-24292e?style=flat)](https://en.wikipedia.org/wiki/Random_forest) [![TSP](https://img.shields.io/badge/Traveling_Salesman_Problem_(TSP)-24292e?style=flat)](https://en.wikipedia.org/wiki/Travelling_salesman_problem) [![VRP](https://img.shields.io/badge/Vehicle_Routing_Problem_(VRP)-24292e?style=flat)](https://en.wikipedia.org/wiki/Vehicle_routing_problem) [![Demand Clustering](https://img.shields.io/badge/Demand_Clustering-24292e?style=flat)](https://en.wikipedia.org/wiki/Cluster_analysis)
+`LSTM` | `Random Forest` | `Traveling Salesman Problem (TSP)` | `Vehicle Routing Problem (VRP)` | `Demand Clustering`
 
 **Analytics & Data Science**
-[![Data Science](https://img.shields.io/badge/Data_Science-24292e?style=flat)](https://en.wikipedia.org/wiki/Data_science) [![Data Analytics](https://img.shields.io/badge/Data_Analytics-24292e?style=flat)](https://en.wikipedia.org/wiki/Data_analysis) [![Predictive Analytics](https://img.shields.io/badge/Predictive_Analytics-24292e?style=flat)](https://en.wikipedia.org/wiki/Predictive_analytics) [![Time Series Forecasting](https://img.shields.io/badge/Time_Series_Forecasting-24292e?style=flat)](https://en.wikipedia.org/wiki/Time_series) [![Data Preprocessing](https://img.shields.io/badge/Data_Preprocessing-24292e?style=flat)](https://en.wikipedia.org/wiki/Data_preparation)
+`Data Science` | `Data Analytics` | `Predictive Analytics` | `Time Series Forecasting` | `Data Preprocessing`
 
 **Software Engineering & Architecture**
-[![OOAD](https://img.shields.io/badge/OOAD-24292e?style=flat)](https://en.wikipedia.org/wiki/Object-oriented_analysis_and_design) [![UML](https://img.shields.io/badge/UML-24292e?style=flat)](https://en.wikipedia.org/wiki/Unified_Modeling_Language) [![Algorithm Design](https://img.shields.io/badge/Algorithm_Design-24292e?style=flat)](https://en.wikipedia.org/wiki/Algorithm_design)
+`OOAD` | `UML` | `Algorithm Design`
 
 **Libraries & Frameworks**
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-24292e?style=flat)](https://www.tensorflow.org/) [![Google OR-Tools](https://img.shields.io/badge/Google_OR--Tools-24292e?style=flat)](https://developers.google.com/optimization) [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-24292e?style=flat)](https://scikit-learn.org/) [![Pandas](https://img.shields.io/badge/Pandas-24292e?style=flat)](https://pandas.pydata.org/) [![NumPy](https://img.shields.io/badge/NumPy-24292e?style=flat)](https://numpy.org/) [![Matplotlib](https://img.shields.io/badge/Matplotlib-24292e?style=flat)](https://matplotlib.org/)
+`TensorFlow` | `Google OR-Tools` | `Scikit-Learn` | `Pandas` | `NumPy` | `Matplotlib`
 
 **Front-End & Deployment**
-[![Web App Dev](https://img.shields.io/badge/Web_Application_Development-24292e?style=flat)](https://en.wikipedia.org/wiki/Web_application_development) [![HTML](https://img.shields.io/badge/HTML-24292e?style=flat)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS](https://img.shields.io/badge/CSS-24292e?style=flat)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![JavaScript](https://img.shields.io/badge/JavaScript-24292e?style=flat)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Vercel](https://img.shields.io/badge/Vercel-24292e?style=flat)](https://vercel.com/) [![Linux](https://img.shields.io/badge/Linux-24292e?style=flat)](https://en.wikipedia.org/wiki/Linux)
+`Web Application Development` | `HTML` | `CSS` | `JavaScript` | `Vercel` | `Linux`
 
 ---
 
