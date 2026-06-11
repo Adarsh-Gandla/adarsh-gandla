@@ -8,7 +8,8 @@ I am a Computer Science and Engineering graduate specializing in architecting da
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/adarshgandla)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=flat&logo=researchgate)](http://researchgate.net/profile/adarsh-gandla)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=flat&logo=gmail)](mailto:adarshgandla.tab@gmail.com?subject=GitHub%20Profile%20Inquiry&body=Hi%20Adarsh,%0A%0AI%20came%20across%20your%20GitHub%20profile%20and%20wanted%20to%20reach%20out%20to%20connect.)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat_Now-25D366?style=flat&logo=whatsapp)](https://wa.me/919381348098?text=Hi%20Adarsh,%20I%20came%20across%20your%20GitHub%20profile%20and%20wanted%20to%20connect.)
+<!--[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat_Now-25D366?style=flat&logo=whatsapp)](https://wa.me/919381348098?text=Hi%20Adarsh,%20I%20came%20across%20your%20GitHub%20profile%20and%20wanted%20to%20connect.)-->
+
 ---
 
 ### 🚀 Featured Project: Smart Logistics
